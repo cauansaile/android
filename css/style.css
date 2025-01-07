@@ -163,6 +163,10 @@ main strong{
     padding: 2px 6px;
 }
 
+aside{
+    text-decoration: none;
+}
+
 ul{
     list-style-type: '\2714\0020\0020';
     columns: 2;
